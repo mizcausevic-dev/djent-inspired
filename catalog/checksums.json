@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3131,
+      "sha256": "fcd943e0f1973451cb60d914053c87717d31ff250af3fe2db42fc3e902ea1b99"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1590,
-      "sha256": "8c032c2e12d35842dbf2acf03e69a32aded9be156a0ecd4c1abf929d9c6a0d94"
+      "bytes": 1812,
+      "sha256": "b5c784989bb7885b9884d9f14eb8a3f5a68ffde068412fa59a79faef5d4f6b0e"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/djent-inspired-midi.zip",
-      "bytes": 34008,
-      "sha256": "95c953779725ab8eeb1479f05395f7cdcc1d6e691d6b7818d25b6177f476ce18"
+      "bytes": 35641,
+      "sha256": "ff4ff288ee88f47b49f9d02d6b067c051f81441bd31bf205825cc05044b401ca"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1038,
-      "sha256": "6adcaf55afc7df1a886c7b8b832a1b7b284a12533ded48a9c357703a503adfe6"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2970,
-      "sha256": "45a4dcc4d51ce9413f673097196ffb84b4834fb43037e794b9e95655ca25f75b"
+      "bytes": 1121,
+      "sha256": "37cd65bce142c5421f5276344996bd09e81bccbdc6d92e58cb7a77aa75c13a68"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",
