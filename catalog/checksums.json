@@ -12,21 +12,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 785,
-      "sha256": "f3eab7654468b19df8fe4aadacd17ff97e2017356807301fc0c578146b30b7cf"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3131,
-      "sha256": "fcd943e0f1973451cb60d914053c87717d31ff250af3fe2db42fc3e902ea1b99"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -93,8 +78,8 @@
     },
     {
       "path": "downloads/djent-inspired-midi.zip",
-      "bytes": 35641,
-      "sha256": "ff4ff288ee88f47b49f9d02d6b067c051f81441bd31bf205825cc05044b401ca"
+      "bytes": 36628,
+      "sha256": "261a184d8a7339d11f43438573913ca76edf76690eebe4d3b69d143799507d1d"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -128,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9326,
-      "sha256": "408158efd05d955ab7d9628ae9ed472fa6781dbca99c0250d2689f380c3b3364"
+      "bytes": 9516,
+      "sha256": "08e5e6559ec6d85f094d591ab032ffb9201673cc58ccb9d5877d1dcd03e908b3"
     },
     {
       "path": "midi/dj01-low-gate/chord_pulse.mid",
@@ -272,6 +257,16 @@
       "sha256": "1a7cb18c157793a4adc032d0ff5d2a47807ca578b4f77df753d41c2091812d3c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 785,
+      "sha256": "f3eab7654468b19df8fe4aadacd17ff97e2017356807301fc0c578146b30b7cf"
+    },
+    {
       "path": "preview/djent-inspired-simple-synth-preview.mp3",
       "bytes": 1293418,
       "sha256": "6f077e2a9aac57e0bf402935c6f7e5a1ee39b7e357a482041572bbd455fa997d"
@@ -280,6 +275,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1121,
       "sha256": "37cd65bce142c5421f5276344996bd09e81bccbdc6d92e58cb7a77aa75c13a68"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3246,
+      "sha256": "5e45cc7943ae874378828c39ff1fdd22a521b94d348c743523017c25d32295b3"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
